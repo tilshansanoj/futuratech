@@ -1,0 +1,25 @@
+~~~~~~~~ Admin Login ~~~~~~~~
+http://localhost:3000/Admin
+username: admin
+Password: futura@123
+
+
+
+~~~~~~~~ Lecturer Login ~~~~~~~~
+http://localhost:3000/Lecturer
+username: email
+Password: created password
+
+(from seeds)
+username: ruwan@g.c
+Password: 1111
+
+
+~~~~~~~~ Student Login ~~~~~~~~
+http://localhost:3000/login
+username: email
+Password: created password
+
+(from seeds)
+username: dilann@gmail.com
+Password: 2222

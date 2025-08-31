@@ -1,0 +1,19 @@
+/* Home.css */
+.home-page {
+  padding: 1rem;
+}
+.bg-blue-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(24, 114, 186);
+}
+.text-xl {
+  font-size: 1.75rem;
+  line-height: 1.75rem;
+}
+.rounded-full {
+  border-radius: 9999px;
+  border: 5px solid white;
+}
+.a-large {
+  font-size: larger;
+}
